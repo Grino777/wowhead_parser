@@ -1,0 +1,302 @@
+{
+    "39769": {
+        "item_name": "Арканитовый потрошитель",
+        "item_level": "115",
+        "item_slot": "Двуручное",
+        "item_type": "Двуручный топор"
+    },
+    "49623": {
+        "item_name": "Темная Скорбь",
+        "item_level": "284",
+        "item_slot": "Двуручное",
+        "item_type": "Двуручный топор"
+    },
+    "46017": {
+        "item_name": "Вал'анир, молот древних королей",
+        "item_level": "245",
+        "item_slot": "Правая рука",
+        "item_type": "Одноручное дробящее"
+    },
+    "44253": {
+        "item_name": "Карта Новолуния: Величие",
+        "item_level": "200",
+        "item_slot": "Аксессуар",
+        "item_type": "Аксессуар"
+    },
+    "37663": {
+        "item_name": "Слиток титановой стали",
+        "item_level": "80",
+        "item_slot": "",
+        "item_type": "Металл и камни"
+    },
+    "43102": {
+        "item_name": "Ледяной шар",
+        "item_level": "80",
+        "item_slot": "",
+        "item_type": "Разное (хозяйственные товары)"
+    },
+    "50818": {
+        "item_name": "Поводья Непобедимого",
+        "item_level": "20",
+        "item_slot": "",
+        "item_type": "Средство передвижения"
+    },
+    "49050": {
+        "item_name": "Схема: Дживс",
+        "item_level": "80",
+        "item_slot": "",
+        "item_type": "Инженерное дело"
+    },
+    "40752": {
+        "item_name": "",
+        "item_level": "",
+        "item_slot": "",
+        "item_type": ""
+    },
+    "50380": {
+        "item_name": "",
+        "item_level": "",
+        "item_slot": "",
+        "item_type": ""
+    },
+    "49040": {
+        "item_name": "",
+        "item_level": "",
+        "item_slot": "",
+        "item_type": ""
+    },
+    "40110": {
+        "item_name": "",
+        "item_level": "",
+        "item_slot": "",
+        "item_type": ""
+    },
+    "40384": {
+        "item_name": "",
+        "item_level": "",
+        "item_slot": "",
+        "item_type": ""
+    },
+    "44050": {
+        "item_name": "",
+        "item_level": "",
+        "item_slot": "",
+        "item_type": ""
+    },
+    "41610": {
+        "item_name": "",
+        "item_level": "",
+        "item_slot": "",
+        "item_type": ""
+    },
+    "44935": {
+        "item_name": "",
+        "item_level": "",
+        "item_slot": "",
+        "item_type": ""
+    },
+    "44326": {
+        "item_name": "",
+        "item_level": "",
+        "item_slot": "",
+        "item_type": ""
+    },
+    "41257": {
+        "item_name": "",
+        "item_level": "",
+        "item_slot": "",
+        "item_type": ""
+    },
+    "45693": {
+        "item_name": "",
+        "item_level": "",
+        "item_slot": "",
+        "item_type": ""
+    },
+    "37111": {
+        "item_name": "",
+        "item_level": "",
+        "item_slot": "",
+        "item_type": ""
+    },
+    "44168": {
+        "item_name": "",
+        "item_level": "",
+        "item_slot": "",
+        "item_type": ""
+    },
+    "42987": {
+        "item_name": "",
+        "item_level": "",
+        "item_slot": "",
+        "item_type": ""
+    },
+    "41163": {
+        "item_name": "",
+        "item_level": "",
+        "item_slot": "",
+        "item_type": ""
+    },
+    "22484": {
+        "item_name": "",
+        "item_level": "",
+        "item_slot": "",
+        "item_type": ""
+    },
+    "44413": {
+        "item_name": "",
+        "item_level": "",
+        "item_slot": "",
+        "item_type": ""
+    },
+    "49908": {
+        "item_name": "",
+        "item_level": "",
+        "item_slot": "",
+        "item_type": ""
+    },
+    "40343": {
+        "item_name": "",
+        "item_level": "",
+        "item_slot": "",
+        "item_type": ""
+    },
+    "40432": {
+        "item_name": "",
+        "item_level": "",
+        "item_slot": "",
+        "item_type": ""
+    },
+    "40684": {
+        "item_name": "",
+        "item_level": "",
+        "item_slot": "",
+        "item_type": ""
+    },
+    "44128": {
+        "item_name": "",
+        "item_level": "",
+        "item_slot": "",
+        "item_type": ""
+    },
+    "45085": {
+        "item_name": "",
+        "item_level": "",
+        "item_slot": "",
+        "item_type": ""
+    },
+    "52200": {
+        "item_name": "",
+        "item_level": "",
+        "item_slot": "",
+        "item_type": ""
+    },
+    "44151": {
+        "item_name": "",
+        "item_level": "",
+        "item_slot": "",
+        "item_type": ""
+    },
+    "41599": {
+        "item_name": "",
+        "item_level": "",
+        "item_slot": "",
+        "item_type": ""
+    },
+    "51809": {
+        "item_name": "",
+        "item_level": "",
+        "item_slot": "",
+        "item_type": ""
+    },
+    "40768": {
+        "item_name": "",
+        "item_level": "",
+        "item_slot": "",
+        "item_type": ""
+    },
+    "44707": {
+        "item_name": "",
+        "item_level": "",
+        "item_slot": "",
+        "item_type": ""
+    },
+    "41508": {
+        "item_name": "",
+        "item_level": "",
+        "item_slot": "",
+        "item_type": ""
+    },
+    "50362": {
+        "item_name": "",
+        "item_level": "",
+        "item_slot": "",
+        "item_type": ""
+    },
+    "39151": {
+        "item_name": "",
+        "item_level": "",
+        "item_slot": "",
+        "item_type": ""
+    },
+    "43126": {
+        "item_name": "",
+        "item_level": "",
+        "item_slot": "",
+        "item_type": ""
+    },
+    "42553": {
+        "item_name": "",
+        "item_level": "",
+        "item_slot": "",
+        "item_type": ""
+    },
+    "38658": {
+        "item_name": "",
+        "item_level": "",
+        "item_slot": "",
+        "item_type": ""
+    },
+    "40199": {
+        "item_name": "",
+        "item_level": "",
+        "item_slot": "",
+        "item_type": ""
+    },
+    "49636": {
+        "item_name": "",
+        "item_level": "",
+        "item_slot": "",
+        "item_type": ""
+    },
+    "45912": {
+        "item_name": "",
+        "item_level": "",
+        "item_slot": "",
+        "item_type": ""
+    },
+    "42225": {
+        "item_name": "",
+        "item_level": "",
+        "item_slot": "",
+        "item_type": ""
+    },
+    "44502": {
+        "item_name": "",
+        "item_level": "",
+        "item_slot": "",
+        "item_type": ""
+    },
+    "37852": {
+        "item_name": "",
+        "item_level": "",
+        "item_slot": "",
+        "item_type": ""
+    },
+    "40211": {
+        "item_name": "",
+        "item_level": "",
+        "item_slot": "",
+        "item_type": ""
+    }
+}
