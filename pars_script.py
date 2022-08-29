@@ -3,7 +3,7 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
-from html_json import parsing_data_from_html
+from html_to_json import parsing_data_from_html
 
 
 def get_template_page(url):
@@ -29,6 +29,14 @@ def get_template_page(url):
         driver.close()
         driver.quit()
 
+def get_equipment_information():
+    pass
+
+def get_professional_information():
+    pass
+
+def get_info_mounts():
+    pass
 
 def main():
     url = 'https://www.wowhead.com/wotlk/ru/items#items;0'
