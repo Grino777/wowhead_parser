@@ -36,7 +36,7 @@ def main_data_from_lua():
     # with open('auction_prices.json', 'w', encoding='utf-8') as f:
     #     json.dump(DATABASE, f, indent=4, ensure_ascii=False)
 
-    with open('auction_prices.json', 'w', encoding='utf-8') as f:
+    with open('wow_database/auction_prices.json', 'w', encoding='utf-8') as f:
         json.dump(main_data, f, indent=4, ensure_ascii=False)
 
 

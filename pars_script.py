@@ -7,12 +7,14 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
 
 
-def get_template_page(url):
-    browser_options = Options()
-    browser_options.add_argument('--headless')
-    browser_options.add_argument("--disable-notifications")
 
-    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install(), options=browser_options))
+def get_template_page(url):
+    # browser_options = Options()
+    # browser_options.add_argument('--headless')
+    # browser_options.add_argument("--disable-notifications")
+
+    driver = webdriver.Chrome(executable_path='webdriver/chromedriver.exe')
+    # driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
     # driver.maximize_window()
 
     try:
@@ -20,11 +22,13 @@ def get_template_page(url):
         sleep(5)
 
         while True:
+            # find_end_element = driver.find_element(By.TAG_NAME, 'script')
             find_end_element = driver.find_element(By.CLASS_NAME, 'footer-navigation')
 
             if driver.find_element(By.CLASS_NAME, 'listview-band-bottom'):
-                with open('templates/0.html', 'w', encoding='utf-8') as file:
-                    file.write(driver.page_source)
+                # with open('templates/0.html', 'w', encoding='utf-8') as file:
+                    # file.write(find_end_element)
+                    # file.write(driver.page_source)
                 break
 
             else:
